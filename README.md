@@ -23,6 +23,19 @@ This project explores the following question:
 The analysis examines whether spending translates into wins, whether wins translate into valuation growth, and which franchises create the most value from their investments.
 
 ---
+## Project Architecture 
+
+Raw IPL Data
+      ↓
+SQL Analysis
+      ↓
+Metric Engineering
+      ↓
+Final Dataset
+      ↓
+Tableau Dashboards
+      ↓
+Investment Recommendations
 
 ## Research Questions
 
@@ -152,6 +165,7 @@ Purpose:
 Evaluate franchises as investable assets and identify the strongest investment opportunities.
 
 Interactive Dashboard:
+ ![Executive Investment Summary](assets/Executive%20Investment%20Summary.png)
 
 [[Dashboard 1 Link Here](https://public.tableau.com/views/IPLFranchiseInvestmentIntelligenceDashboard/ExecutiveInvestmentSummary?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
@@ -163,7 +177,12 @@ Purpose:
 
 Analyze how IPL franchise valuations evolved over time and identify long-term value creators.
 
-Interactive Dashboard:
+Interactive Dashboard: 
+![Franchise Valuation Evolution](assets/IPL%20Franchise%20Valuation%20Evolution.png)
+
+🔗 Tableau Public:
+PASTE_LINK
+
 
 [[Dashboard 2 Link Here](https://public.tableau.com/views/IPLFranchiseInvestmentIntelligenceDashboard/IPLFranchiseValuationEvolution?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
@@ -176,6 +195,10 @@ Purpose:
 Identify the key factors responsible for franchise value creation.
 
 Interactive Dashboard:
+![Value Creation Drivers](assets/IPL%20Franchise%20Value%20Creation%20Drivers.png)
+
+🔗 Tableau Public:
+PASTE_LINK
 
 [[Dashboard 3 Link Here](https://public.tableau.com/views/IPLFranchiseValueCreationDashboard/IPLFranchiseValueCreationDrivers?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
