@@ -167,6 +167,7 @@ Evaluate franchises as investable assets and identify the strongest investment o
 Interactive Dashboard:
  ![Executive Investment Summary](assets/Executive%20Investment%20Summary.png)
 
+🔗 Tableau Public:
 [[Dashboard 1 Link Here](https://public.tableau.com/views/IPLFranchiseInvestmentIntelligenceDashboard/ExecutiveInvestmentSummary?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ---
@@ -181,9 +182,6 @@ Interactive Dashboard:
 ![Franchise Valuation Evolution](assets/IPL%20Franchise%20Valuation%20Evolution.png)
 
 🔗 Tableau Public:
-PASTE_LINK
-
-
 [[Dashboard 2 Link Here](https://public.tableau.com/views/IPLFranchiseInvestmentIntelligenceDashboard/IPLFranchiseValuationEvolution?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ---
@@ -198,8 +196,6 @@ Interactive Dashboard:
 ![Value Creation Drivers](assets/IPL%20Franchise%20Value%20Creation%20Drivers.png)
 
 🔗 Tableau Public:
-PASTE_LINK
-
 [[Dashboard 3 Link Here](https://public.tableau.com/views/IPLFranchiseValueCreationDashboard/IPLFranchiseValueCreationDrivers?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ---
